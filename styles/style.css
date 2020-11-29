@@ -1,16 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 html {
   background-color: #050505;
   font-size: 40px;
   font-family: "Big Shoulders Stencil Display";
 }
-.my-class, .my-class2 {
+.my-class, .my-class2, img {
   width: 1000px;
   margin: 0 auto;
   padding: 0 20px 20px 20px;
 }
 body {
   background-color: #050505;
-  border: 5px solid red;
 }
 img {
   display: block;

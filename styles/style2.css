@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 html {
   background-color: #000D75;
   font-size: 40px;
@@ -10,7 +15,6 @@ html {
 }
 body {
   background-color: #000D75;
-  border: 5px solid black;
 }
 img {
   display: block;
