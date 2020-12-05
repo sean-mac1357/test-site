@@ -8,7 +8,7 @@ html {
   font-size: 40px;
   font-family: "Big Shoulders Inline Display";
 }
-.my-class, .my-class2 {
+.my-class, .my-class2, img {
   width: 1000px;
   margin: 0 auto;
   padding: 0 20px 20px 20px;
